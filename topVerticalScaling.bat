@@ -1,0 +1,1 @@
+docker update --memory-swap -1 --cpus 1 -m 1049100288 74584acb007bfce5e4d011b2f6e730e87d8f6f6dcaec6dadf458bbe320ed1534
